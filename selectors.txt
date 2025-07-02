@@ -1,0 +1,8 @@
+#01 for channel page
+ytd-rich-grid-row.style-scope:nth-child(1) > div:nth-child(1) > ytd-rich-item-renderer:nth-child(1) > div:nth-child(1) > ytd-rich-grid-media:nth-child(1) > div:nth-child(1) > div:nth-child(1) > ytd-thumbnail:nth-child(1) > a:nth-child(1)
+#03 views
+span.bold:nth-child(1)
+#05 likes
+ytd-menu-renderer.ytd-watch-metadata > div:nth-child(1) > segmented-like-dislike-button-view-model:nth-child(1) > yt-smartimation:nth-child(1) > div:nth-child(1) > div:nth-child(1) > like-button-view-model:nth-child(1) > toggle-button-view-model:nth-child(1) > button-view-model:nth-child(1) > button:nth-child(1) > div:nth-child(2)
+#07 home page
+ 
